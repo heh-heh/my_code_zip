@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667907583 source:d:\c\c언어\정렬(선택)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+

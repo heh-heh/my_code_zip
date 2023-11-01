@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664869057 source:d:\c\sminproject\mobirostest\main.c
+	<stdio.h>
+	<stdlib.h>
+

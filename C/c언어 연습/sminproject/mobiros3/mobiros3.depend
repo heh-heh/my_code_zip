@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657861960 source:d:\c\간단한 프로젝트들\mobiros3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1632805063 source:c:\users\sungw\desktop\c언어\1128\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1634535153 source:c:\users\sungw\desktop\c언어\progreming\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1638162834 source:e:\백업\c언어\progreming\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1638266576 source:c:\users\sungwon910\desktop\c언어\progreming\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1638266576 source:c:\users\sungwon910\onedrive\바탕 화면\코딩\c언어\progreming\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1672723848 source:d:\c\c언어\progreming\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
